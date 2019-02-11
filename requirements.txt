@@ -1,5 +1,5 @@
 matplotlib
 numpy
-cv2
-skimage.measure
-imultis
+opencv-python
+scikit-image
+imutils
